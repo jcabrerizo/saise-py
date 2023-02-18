@@ -1,8 +1,8 @@
-[submodule "saise-ui"]
-	path = saise-ui
-	url = git@github.com:jcabrerizo/saise-ui.git
+[submodule "saise-py-ui"]
+	path = saise-py-ui
+	url = git@github.com:jcabrerizo/saise-py-ui.git
 	branch = main	
 [submodule "saise-server"]
-	path = saise-server
-	url = git@github.com:jcabrerizo/saise-server.git
+	path = saise-py-server
+	url = git@github.com:jcabrerizo/saise-py-server.git
 	branch = main
